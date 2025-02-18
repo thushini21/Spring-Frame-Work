@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/O10_RestControllerNew/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O10_RestControllerNew/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O11_BackEnd/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O11_BackEnd/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O12_FrontEnd/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O12_FrontEnd/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O13_Spring_Data_JPA/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O13_Spring_Data_JPA/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O14_Spring_Boot/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/O2_Spring_Bean_LifeCycle/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/O2_Spring_Bean_LifeCycle/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O3_Spring_DI/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O3_Spring_DI/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O4_FullModeLightMode/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O4_FullModeLightMode/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O4_FullModeVsLightMode/O5_Configuration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O4_FullModeVsLightMode/O5_Configuration/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O4_FullModeVsLightMode/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O4_FullModeVsLightMode/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O5_Configuration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O5_Configuration/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O6/mine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O6/mine/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O6/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O6/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O6_Runtime_Value_Injection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O6_Runtime_Value_Injection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O7_Spring_Environment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O7_Spring_Environment/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O8_Spring_Web_MVC/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O8_Spring_Web_MVC/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O9_RestController/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O9_RestController/src/main/resources" charset="UTF-8" />
   </component>
 </project>

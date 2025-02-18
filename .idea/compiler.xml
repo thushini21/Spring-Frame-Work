@@ -6,9 +6,30 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="O7_Spring_Environment" />
+        <module name="O8_Spring_Web_MVC" />
+        <module name="O9_RestController" />
         <module name="O1_Spring_Core" />
+        <module name="O5_Configuration" />
+        <module name="O10_RestControllerNew" />
+        <module name="O14_Spring_Boot" />
         <module name="O2_Spring_Bean_LifeCycle" />
+        <module name="O6_Runtime_Value_Injection" />
+        <module name="O11_BackEnd" />
+        <module name="O4_FullModeLightMode" />
+        <module name="O13_Spring_Data_JPA" />
+        <module name="O3_Spring_DI" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mine" target="17" />
+      <module name="O12_FrontEnd" target="17" />
+      <module name="O4_FullModeVsLightMode" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="O14_Spring_Boot" options="-parameters" />
+    </option>
   </component>
 </project>

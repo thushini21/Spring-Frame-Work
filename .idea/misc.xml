@@ -6,7 +6,30 @@
       <list>
         <option value="$PROJECT_DIR$/O1_Spring_Core/pom.xml" />
         <option value="$PROJECT_DIR$/O2_Spring_Bean_LifeCycle/pom.xml" />
+        <option value="$PROJECT_DIR$/O3_Spring_DI/pom.xml" />
+        <option value="$PROJECT_DIR$/O4_FullModeVsLightMode/pom.xml" />
+        <option value="$PROJECT_DIR$/O4_FullModeLightMode/pom.xml" />
+        <option value="$PROJECT_DIR$/O5_Configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/O6/pom.xml" />
+        <option value="$PROJECT_DIR$/O6_Runtime_Value_Injection/pom.xml" />
+        <option value="$PROJECT_DIR$/O7_Spring_Environment/pom.xml" />
+        <option value="$PROJECT_DIR$/O8_Spring_Web_MVC/pom.xml" />
+        <option value="$PROJECT_DIR$/O9_RestController/pom.xml" />
+        <option value="$PROJECT_DIR$/O10_RestControllerNew/pom.xml" />
+        <option value="$PROJECT_DIR$/O11_BackEnd/pom.xml" />
+        <option value="$PROJECT_DIR$/O12_FrontEnd/pom.xml" />
+        <option value="$PROJECT_DIR$/O13_Spring_Data_JPA/pom.xml" />
+        <option value="$PROJECT_DIR$/O14_Spring_Boot/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/O12_FrontEnd/pom.xml" />
+        <option value="$PROJECT_DIR$/O4_FullModeVsLightMode/O5_Configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/O4_FullModeVsLightMode/pom.xml" />
+        <option value="$PROJECT_DIR$/O6/mine/pom.xml" />
+        <option value="$PROJECT_DIR$/O6/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_20" project-jdk-name="17" project-jdk-type="JavaSDK">
